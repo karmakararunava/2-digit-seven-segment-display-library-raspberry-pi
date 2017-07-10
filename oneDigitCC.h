@@ -1,5 +1,5 @@
 /*  Displaying A No On A Single Digit Common Cathode Display  *\
-*	             Scripted by Arunava Karmakar                    *
+*                Scripted by Arunava Karmakar                  *
 ****************************************************************
 *           Define A through G and DP as global variables      *
 *             in the source code containing main()             *
